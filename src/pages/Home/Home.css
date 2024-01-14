@@ -1,0 +1,42 @@
+
+ .homebackground{
+   background-image: url("https://www.evangadi.com/themes/humans/assets/images/misc/bg-svg-f.svg");
+   background-size: cover; 
+   background-position: center;
+   background-repeat: no-repeat;
+   margin-top: 85px !important;
+   height: fit-content;
+
+ }
+ .about{
+    color: #FE8402!important;
+ }
+ .eva{
+   color:#4B456F 
+ }
+ .button-home{
+    background-color:#FE8402 ;
+    border: none;
+    /* width: 80px; */
+    height: 40px;
+    border-radius:5px ;
+    
+  
+   
+ }
+ .home-link{
+    color: white;
+    text-decoration: none;
+    padding-left:15px ;
+    padding-right: 15px;
+    
+ }
+ .pass{
+    color:#FE8402 ;
+ }
+ .info{
+    margin-left: 40px;
+ }
+ /* .homeall{
+margin-top:20%;
+ } */
